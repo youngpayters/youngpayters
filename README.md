@@ -1,6 +1,13 @@
-### Hi there 👋
+### Welcome to YoungPayters 👋
 
 My name is Daryl and I am a full stack developer currently working at [Poppulo](https://engineering.poppulo.com/)
+
+🔭 I’m currently working on:
+- ⚽ [LastFolkStanding](https://app.lastfolkstanding.com/)
+- 🏅 [LeaguR](https://www.leagur.com/)
+
+📫 How to reach me: 
+- Twitter: [@youngpayters](https://twitter.com/youngpayters)
 
 <!--
 **youngpayters/youngpayters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
