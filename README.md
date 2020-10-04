@@ -1,6 +1,6 @@
-### Welcome to YoungPayters 👋
+### Welcome to my Github 👋
 
-My name is Daryl and I am a full stack developer currently working at [Poppulo](https://engineering.poppulo.com/)
+My name is Daryl and I am a full stack developer at [Poppulo](https://engineering.poppulo.com/)
 
 🔭 I’m currently working on:
 - ⚽ [LastFolkStanding](https://app.lastfolkstanding.com/)
