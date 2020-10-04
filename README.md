@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Daryl and I am a full stack developer currently working at [Poppulo](https://www.poppulo.com)
+My name is Daryl and I am a full stack developer currently working at [Poppulo](https://engineering.poppulo.com/)
 
 <!--
 **youngpayters/youngpayters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
