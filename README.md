@@ -57,6 +57,9 @@ Again, like Last Folk Standing, I wanted to potentially help my local football a
 
 # Interests:
 :soccer:  Football
+
 :video_game:  Video games
+
 :runner:  Half marathons
+
 :computer:  Keeping up to date (trying) with the latest technology and methodologies in Software Development
