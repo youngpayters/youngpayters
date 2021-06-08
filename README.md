@@ -1,6 +1,8 @@
 ### Welcome to my Github 👋
 
-My name is Daryl and I am a full stack developer at [Poppulo](https://engineering.poppulo.com/)
+Hello and welcome to my github! 
+
+My name is Daryl and I am a Senior Software Developer at [Jaguar Land Rover](https://www.jaguarlandrovercareers.com/content/Ireland/)
 
 # 🔭 I’m currently working on:
 ## ⚽ [Last Folk Standing](https://app.lastfolkstanding.com/)
@@ -43,7 +45,9 @@ Enter team results and have the standing auto update for you.
 
 #### Why did I create it?
 
-Again, like Last Folk Standing, I wanted to potentially help my local football association deal with handling fixtures, results and registration of players to meet the demands of an ever increasing number of teams/clubs in order to focus more on helping the clubs involved rather than just administering the competitions.
+Similar to Last Folk Standing, I wanted to potentially help my local football association deal with handling fixtures, results and registration of players to meet the demands of an ever increasing number of teams/clubs in order to focus more on helping the clubs involved rather than just administering the competitions.
+
+I saw that it were left to managers and secretaries to send the match results via text to the FA secretary. What I wanted to sovle was taking away some of the stresses of running a league and instead focus their efforts on growing their associations rather than just tactically working through the seasons & divisions.
 
 #### Built with
 
