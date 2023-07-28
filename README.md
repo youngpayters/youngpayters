@@ -2,7 +2,7 @@
 
 Hello and welcome to my github! 
 
-My name is Daryl and I am a Senior Software Developer at [Glofox](https://www.glofox.com/) and creator of [Last Folk Standing](https://app.lastfolkstanding.com/)
+My name is Daryl and I am a Senior Software Developer at [ABC Glofox](https://www.glofox.com/) and creator of [Last Folk Standing](https://app.lastfolkstanding.com/)
 
 # 🔭 I’m currently working on:
 ## ⚽ [Last Folk Standing](https://app.lastfolkstanding.com/)
