@@ -2,14 +2,14 @@
 
 Hello and welcome to my github! 
 
-My name is Daryl and I am a Senior Software Developer at [ABC Glofox](https://www.glofox.com/) and creator of [Last Folk Standing](https://app.lastfolkstanding.com/)
+My name is Daryl and I'm Tech Lead at [ABC Glofox](https://www.glofox.com/) and creator of [Last Folk Standing](https://app.lastfolkstanding.com/)
 
 # 🔭 I’m currently working on:
 ## ⚽ [Last Folk Standing](https://app.lastfolkstanding.com/)
 
 ### What is Last Folk Standing?
 
-Last folk standing is an online service that allows you to create and run your own Last Man Standing competitions for all the major :soccer: football leagues.
+It's an online platform that allows you to create & manage Last Man Standing competitions
 
 #### What is a Last Man Standing competition? 
 
@@ -21,17 +21,25 @@ The last person remaining wins the prize!
 
 #### Why did I create it?
 
-This competition type is a great way for funding my local sports clubs so thought this would be a great little side project to help them organise and maintain multilpe competitions without having to do the grunt work of reaching out to people and gather teams.
+Last Man Standing competitions are a great way for local sports club to fundraise at the start of the season. 
 
-And especially since Covid, local clubs and societies have found it much harder to fundraise as it's mostly done in person and some of the smaller clubs don't have much of an online presence. With Last Folk Standing, you can create a competition, send a link through various channels, and get sponsors from across the world.
+However the amount of admin required to setup and run these takes a lot of time and effort with all the payoff coming in the first week of it. Once the Last Man Standing starts, there is just a lot of admin work to keep it running and chasing people for selections.
+
+Then when the covid pandemic hit, a lot of the fundraising efforts was very much in person, with a lot of clubs losing the ability to move online quickly, I created an online platform that would handle the running of these competitions and most improtantly, allow for online payments so clubs could continue to fund raise during the pandemic.
 
 #### Built with
 
-- Frontend - Angular 9 deployed on AWS Cloudfront & Route 53
-- Backend - AWS Api Gateway with lambda & backed with dynamodb 
+- Frontend - Angular
+- Backend - AWS API Gateway with lambda & backed with dynamodb
+- AWS CDK as IAC (Infrastructure as Code)
 - Auth - Auth0.com
 - Payment Processing - Stripe integration
 - CI/CD - CircleCI
+
+#### How is it built?
+
+It's primarily an event based system, where the main trigger of activity comes from when a round of fixtures is completed.
+Due to the bursty nature of last man standing competitions, having a resiliant system with events allows for it to better handle these triggers at a controlled rate without overwhelming the system.
 
 ## 🏅 [LeaguR](https://www.leagur.com/)
 
@@ -45,19 +53,22 @@ Enter team results and have the standing auto update for you.
 
 #### Why did I create it?
 
-Similar to Last Folk Standing, I wanted to potentially help my local football association deal with handling fixtures, results and registration of players to meet the demands of an ever increasing number of teams/clubs in order to focus more on helping the clubs involved rather than just administering the competitions.
+I created it because I was becoming more and more frustrated with some of the leagues I was playing soccer with that they were extremely slow with updating their league tables and results, some with complete inaccuracies and poorly formatted free-text league tables.
 
-I saw that it were left to managers and secretaries to send the match results via text to the FA secretary. What I wanted to sovle was taking away some of the stresses of running a league and instead focus their efforts on growing their associations rather than just tactically working through the seasons & divisions.
+I also wanted to hone some of my learnings into a real world example and was interested in building a working web application and frontend that would have CI/CD built in and built on AWS.
+
+I saw this as a fun side-project that could also help them have a better mechanism to manage and update their leagues. But then it actually became a fun little way of creating leagues for FIFA tournaments we would play ⚽ 🎮
 
 #### Built with
 
-- Frontend - Angular 9 deployed on AWS Cloudfront & Route 53
+- Frontend - Angular
 - Backend - AWS API Gateway with lambda & backed with dynamodb
+- SAM template as IAC
 - Auth - Auth0.com
 - CI/CD - CircleCI
 
 # 📫 How to reach me: 
-- Twitter: [@youngpayters](https://twitter.com/youngpayters)
+- [LinkedIn](https://www.linkedin.com/in/petersdaryl/)
 
 # Interests:
 - :soccer:  Football
