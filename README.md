@@ -4,6 +4,8 @@ Hello and welcome to my github!
 
 My name is Daryl and I'm Tech Lead at [ABC Glofox](https://www.glofox.com/) and creator of [Last Folk Standing](https://app.lastfolkstanding.com/)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=youngpayters&show_icons=true&theme=gotham" alt="youngpayters" />
+
 # 🔭 I’m currently working on:
 ## ⚽ [Last Folk Standing](https://app.lastfolkstanding.com/)
 
